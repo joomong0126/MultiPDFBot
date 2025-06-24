@@ -1,0 +1,16 @@
+__pycache__/
+.env
+
+.devcontainer/
+
+# Mac
+.DS_Store
+
+# python venv
+etc/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+chroma_db/
